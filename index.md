@@ -8,3 +8,7 @@ Benjamin Lafayette Sisko ist Sternenflotten-Offizier. Bekannt geworden durch sei
 * Worf - is a Klingon, good Fighter, bad Socalizer
 * Kira - form Bayor, guerilla Fighter
 * Odo - a Changeling, Dominin-Member, straight
+
+
+As Ben Sisko says:
+>Das Glück begünstigt den Mutigen.
