@@ -11,6 +11,8 @@ Benjamin Lafayette Sisko ist Sternenflotten-Offizier. Bekannt geworden durch sei
 
 
 As Ben Sisko says:
->Das Glück begünstigt den Mutigen.
+> Das Glück begünstigt den Mutigen.
 
-<img src="https://en.wikipedia.org/wiki/File:BenSisko.jpgURL"/>.
+
+<img src="https://cdn.pixabay.com/photo/2020/06/20/20/52/squirrel-5322459_960_720.jpg" width="100%" />
+
